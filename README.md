@@ -1,73 +1,55 @@
-# 👋 Hello, I'm [Your Name]!
-
-Welcome to my GitHub! I'm a passionate developer who loves building useful, creative, and efficient tools using **Python** and **JavaScript**. I work comfortably in **Linux environments**, especially **Ubuntu**, and enjoy automating systems, crafting bots, and working on both web and server-side projects.
-
----
-
-## 🧠 About Me
-
-- 💻 **Languages I Use**:  
-  - Python 🐍 – For bots, automation, APIs, and back-end logic.  
-  - JavaScript ⚙️ – For interactive front-ends and dynamic applications.  
-
-- 🐧 **Operating System of Choice**:  
-  - Ubuntu – My go-to environment for development, scripting, and deployment.
-
-- 🛠️ **What I Like to Build**:
-  - Discord bots with advanced moderation, logging, and SFTP integration
-  - Fun and original games (like on Roblox or using game engines like UE5)
-  - Command-line tools and automation scripts for productivity
+<h1 align="center">Hi 👋, I'm [YourNameHere]</h1>
+<h3 align="center">Python & JavaScript Developer • Linux User • Tech Tinkerer</h3>
 
 ---
 
-## 🧰 Tools & Technologies
+🌱 I’m currently working on:  
+‣ Custom Discord bots with advanced moderation & RCON integration  
+‣ Roblox + Pavlov VR game dev projects  
 
-| Area           | Tools & Frameworks                             |
-|----------------|-------------------------------------------------|
-| Programming    | Python, JavaScript (Node.js)                    |
-| Scripting      | Bash, Shell                                     |
-| Web            | HTML, CSS, Express.js                           |
-| Databases      | SQLite, JSON, Firebase (basic)                  |
-| Game Dev       | Roblox Studio, UE5, Pavlov VR SDK               |
-| Bots & APIs    | discord.py, Nextcord, REST APIs, async-pavlov  |
-| Server Tools   | SFTP, RCON, crontab, systemd                    |
-| OS & Dev Env   | Ubuntu, VS Code, Git/GitHub, tmux, SSH         |
+👯 I’m looking to collaborate on:  
+‣ Game logic systems, scripting tools, and cool bot ideas  
 
----
+🌐 Check out my stuff:  
+‣ GitHub Projects: [github.com/yourusername](https://github.com/yourusername)  
+‣ Portfolio (Coming Soon)  
+‣ Discord: `yourusername#1234`
 
-## 📌 Pinned Projects
-
-Here are a few of the cool things I’ve worked on:
-
-- 🔧 **[Discord Server Customizer Bot](https://github.com/yourusername/yourproject)**  
-  A modular Discord bot built with `discord.py`, packed with moderation tools, embed generators, and server setup utilities.
-
-- 🎮 **[Not Worth It – Roblox Game](https://github.com/yourusername/not-worth-it)**  
-  A Russian roulette-inspired Roblox game with creepy/fun vibes and community-driven content.
-
-- 🧠 **[VC But You Have Dementia](https://github.com/yourusername/dementia-vc)**  
-  A social experiment game where memory fades and hallucinations kick in as players lose track of what's real.
+🧠 Fun Facts:  
+‣ I use Ubuntu as my daily driver 🐧  
+‣ I love building things that automate and make life easier  
+‣ I enjoy experimenting with server hosting & backend tools
 
 ---
 
-## 🚀 Goals for 2025
+### 🛠️ Languages and Tools:
 
-- ✅ Improve my deployment workflows using Docker or systemd services
-- ✅ Continue learning advanced Python practices and async programming
-- 🔜 Build a web dashboard for managing my Discord bots
-- 🔜 Create a full-stack app combining Express, Node.js, and Python microservices
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Get in Touch
+### 📊 GitHub Stats:
 
-If you want to collaborate, chat, or need help with something I know — feel free to reach out!
-
-- Discord: `yourusername#1234`
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
-⭐ **Thanks for visiting!** If you like what you see, consider leaving a ⭐ on one of my projects!
+### 📫 Contact Me
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
