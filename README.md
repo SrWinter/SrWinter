@@ -16,4 +16,3 @@
 
 ---
 
-Thanks for visiting! 🚀
