@@ -17,10 +17,7 @@ I enjoy building things using:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default]![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-)
 <!-- You can change the theme to: "radical", "gruvbox", "tokyonight", etc. -->
 
 ---
